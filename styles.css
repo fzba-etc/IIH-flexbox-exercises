@@ -26,6 +26,13 @@
     justify-content: space-between;
   }
 
+.header {
+  width: 900px;
+  height: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+
 .links {
     /* border: 1px solid #fff;  */
     display: flex;
