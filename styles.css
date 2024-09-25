@@ -70,6 +70,10 @@
   order: 1;
 }
 
+.footer-three {
+  flex: 2;
+}
+
 .last-item {
   order: -1;
 }
