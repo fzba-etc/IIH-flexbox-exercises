@@ -31,7 +31,7 @@
   height: 300px;
   display: flex;
   justify-content: space-between;
-  align-items: stretch;
+  align-items: center;
 }
 
 .links {
@@ -42,10 +42,4 @@
 
 .login {
     margin-left: 20px;
-}
-
-.social,
-.logo,
-.subscribe {
-  border: 1px solid #5995DA;
 }
