@@ -11,6 +11,13 @@
     display: flex;
     justify-content: center;
 }
+
+.header-container {
+  color: #5995DA;
+  background-color: #D6E9FE;
+  display: flex;
+  justify-content: center;
+}
   
 .menu {
     /* border: 1px solid #fff;   */
