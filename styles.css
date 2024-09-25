@@ -93,3 +93,10 @@
   align-self: flex-end;
   margin-bottom: 20px;
 }
+
+.footer-one,
+.footer-three {
+  background-color: #5995DA;
+  flex: initial;
+  width: 300px;
+}
