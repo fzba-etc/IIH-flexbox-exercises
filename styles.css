@@ -88,6 +88,10 @@
     margin-left: 20px;
 }
 
+.signup {
+  margin-left: auto;
+}
+
 .social,
 .subscribe {
   align-self: flex-end;
